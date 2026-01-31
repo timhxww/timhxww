@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=180&section=header&text=timhxww%20|%20Red%20Team&fontSize=50&fontColor=000000&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=timhxww%20|%20Red%20Team&fontSize=50&fontColor=000000&animation=twinkling" width="100%" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=timhxww&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhxww&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=timhxww&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="150" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhxww&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" height="150" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -32,6 +40,6 @@
 ---
 
 <div align="center">
-  <h3>🐍 Snake Contribution Map</h3>
-  <img src="https://raw.githubusercontent.com/timhxww/timhxww/output/github-contribution-grid-snake.svg" width="100%" alt="snake" />
+  <h3>⚡ GitHub Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timhxww&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
