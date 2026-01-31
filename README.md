@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=timhxww%20|%20Red%20Team&fontSize=50&fontColor=000000&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=timhxww%20|%20Red%20Team&fontSize=50&fontColor=000000" width="100%" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=timhxww&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhxww&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=timhxww&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhxww&layout=compact&theme=dark&hide_border=true" height="150" />
 </div>
 
 ---
@@ -27,16 +27,13 @@
 ---
 
 <div align="center">
-  ### 📈 Activity & Metrics
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timhxww&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timhxww&theme=tokyonight&hide_border=true" width="100%" />
+  ### 📈 GitHub Metrics (3D Calendar)
+  <img src="https://metrics.lecoq.io/timhxww?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia/Almaty" width="100%" alt="Metrics Calendar" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/timhxww?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia/Almaty" width="100%" />
+  ### ⚡ Activity Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timhxww&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
