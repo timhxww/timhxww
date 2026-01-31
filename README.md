@@ -45,16 +45,12 @@ Red Team–focused cybersecurity specialist with a strong emphasis on **offensiv
 
 ---
 
-## 📈 Activity & Streak
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=timhxww&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=timhxww&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=timhxww&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timhxww&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timhxww&theme=dark&hide_border=true" />
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## ⚡ GitHub Contribution Graph
