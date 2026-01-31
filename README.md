@@ -1,39 +1,73 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=timhxww%20|%20Red%20Team&fontSize=50&fontColor=000000" width="100%" />
+<h1 align="center">timhxww | Red Team</h1>
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=timhxww&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhxww&layout=compact&theme=dark&hide_border=true" height="150" />
-</div>
-
----
-
-### 🥷 About Me
-**Red Team-focused cybersecurity specialist** with a strong emphasis on offensive security and attacker simulation.
-- **Focus:** Reconnaissance, vulnerability discovery, exploitation.
-- **Experience:** CTF Kazakhstan (KazHackStan), web attacks, logic flaws.
-
-### 🛠 Red Team Skills
-`SQL Injection` `XSS` `CSRF` `IDOR` `Nmap` `Metasploit` `PrivEsc`
-
-### 💻 Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,php,rust,powershell,linux,docker,mysql,mongodb,nginx,figma&perline=10" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Red%20Team-critical?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CTF-KazHackStan-darkred?style=for-the-badge">
 </p>
 
 ---
 
-<div align="center">
-  ### 📈 GitHub Metrics (3D Calendar)
-  <img src="https://metrics.lecoq.io/timhxww?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia/Almaty" width="100%" alt="Metrics Calendar" />
-</div>
+## 🧠 About Me
+
+Red Team–focused cybersecurity specialist with a strong emphasis on **offensive security**, **attacker simulation**, and **real-world exploitation techniques**.
+
+- 🎯 **Focus:** Reconnaissance, vulnerability discovery, exploitation  
+- 🧪 **Experience:** CTF Kazakhstan (KazHackStan), web attacks, logic flaws  
+- ⚔️ **Mindset:** Attack-first, adversarial thinking
 
 ---
 
-<div align="center">
-  ### ⚡ Activity Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timhxww&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
+## 🛠️ Red Team Skills
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Injection-black?style=flat&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/XSS-black?style=flat&logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/CSRF-black?style=flat">
+  <img src="https://img.shields.io/badge/IDOR-black?style=flat">
+  <img src="https://img.shields.io/badge/Privilege_Escalation-black?style=flat">
+  <img src="https://img.shields.io/badge/Nmap-black?style=flat&logo=linux">
+  <img src="https://img.shields.io/badge/Metasploit-black?style=flat&logo=metasploit">
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timhxww&show_icons=true&theme=dark&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhxww&layout=compact&theme=dark&hide_border=true">
+</p>
+
+---
+
+## ⚡ Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timhxww&theme=dark&hide_border=true">
+</p>
+
+---
+
+> ⚠️ **Disclaimer:**  
+> This profile is focused on **ethical offensive security**, legal testing, and CTF environments only.
