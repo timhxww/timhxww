@@ -3,16 +3,8 @@
 
   <br/>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=timhxww&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="150" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhxww&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" height="150" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=timhxww&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhxww&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ---
@@ -32,14 +24,19 @@
   </a>
 </p>
 
-### 📈 Activity & Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timhxww&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
-</p>
+---
+
+<div align="center">
+  ### 📈 Activity & Metrics
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timhxww&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timhxww&theme=tokyonight&hide_border=true" width="100%" />
+</div>
 
 ---
 
 <div align="center">
-  <h3>⚡ GitHub Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timhxww&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://metrics.lecoq.io/timhxww?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia/Almaty" width="100%" />
 </div>
