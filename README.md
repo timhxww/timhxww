@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=timhxww%20|%20Red%20Team&fontSize=50&fontAlignY=50&fontColor=00FF41&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=180&section=header&text=timhxww%20|%20Red%20Team&fontSize=50&fontColor=000000&animation=twinkling" width="100%" />
 
   <br/>
 
@@ -24,13 +24,14 @@
   </a>
 </p>
 
-### 📈 Activity
+### 📈 Activity & Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timhxww&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/timhxww/timhxww/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <h3>🐍 Snake Contribution Map</h3>
+  <img src="https://raw.githubusercontent.com/timhxww/timhxww/output/github-contribution-grid-snake.svg" width="100%" alt="snake" />
+</div>
