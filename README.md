@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://sun9-52.userapi.com/c532036/u23897724/d26/-3/o_210712eff0.jpg" alt="Profile Banner" width="100%" style="border-radius: 10px;">
-</div>
-
-
 # 💫 About Me:
 👋 About Me<br>Red Team–focused cybersecurity specialist with a strong emphasis on offensive security and attacker simulation. My work centers on reconnaissance, vulnerability discovery, exploitation, and validating real-world security posture through active attack scenarios.<br>I have hands-on experience in CTF competitions, including CTF Kazakhstan (KazHackStan) and online platforms, working primarily with web attacks, logic flaws, and basic privilege escalation.<br><br>🛠️ Red Team Skills<br>Web Attacks: SQL Injection, XSS, CSRF, IDOR, business logic flaws<br>Recon & Enumeration: Nmap, endpoint and directory discovery<br>Exploitation: Metasploit, manual exploitation, basic post-exploitation<br>OS & PrivEsc: Linux, permissions, sudo misconfigurations<br>Methodology: recon → exploit → access persistence<br><br>⚡ Fun Fact<br>Effective attacks start with reconnaissance, not exploits.
 
