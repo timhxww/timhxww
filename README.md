@@ -2,14 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=140&section=header&text=timhxww%20|%20Red%20Team&fontSize=36&fontColor=000000&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/timhxww">
-    <img src="https://img.shields.io/badge/Stats-darkgreen?style=for-the-badge">
-  </a>
-  <a href="https://github.com/timhxww">
-    <img src="https://img.shields.io/badge/Langs-darkgreen?style=for-the-badge">
-  </a>
-</p>
 
 ---
 
