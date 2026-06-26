@@ -20,7 +20,7 @@
 
 
 
-## 🧨 Technical Arsenal
+## Arsenal
 
 ### Low-Level & Pwn
 - **Languages:** `C`, `ASM (x64/ARM)`, `C++`, `Rust`
